@@ -1,4 +1,4 @@
-# NodeMcu-Evil-Twin
+# NodeMcu-Evil-Twin (DEMO)
 This project aims to facilitate Evil Twin attacks using NodeMCU and an OLED display.
 
 ## How It Works
