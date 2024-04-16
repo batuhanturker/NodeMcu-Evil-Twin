@@ -3,7 +3,7 @@ This project aims to facilitate Evil Twin attacks using NodeMCU and an OLED disp
 
 ## How It Works
 
-The device connects to a network via NodeMCU's WiFi module and creates a fake network resembling the target one. When users connect to the fake network, the attacker gains control.
+The device operates by setting up a captive portal to perform phishing attacks for obtaining Wi-Fi passwords.
 
 ## Requirements
 
