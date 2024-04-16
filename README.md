@@ -26,7 +26,7 @@ The device connects to a network via NodeMCU's WiFi module and creates a fake ne
 5. In the web interface, select the target network from the list provided.
 6. The device will then create a fake network resembling the selected target.
 
-![IMG_1996](https://github.com/batuhanturker/NodeMcu-Evil-Twin/assets/57283569/c1d790ce-c4d8-4eea-a0c1-8573979f2927)
+<img width="1307" alt="Ekran Resmi 2024-04-16 20 37 24" src="https://github.com/batuhanturker/NodeMcu-Evil-Twin/assets/57283569/a71f7721-7c70-49ed-b112-f07990a19dff">
 
 
 ![IMG_1999](https://github.com/batuhanturker/NodeMcu-Evil-Twin/assets/57283569/357f10e8-8e66-47db-b2df-c3499d681a21)
